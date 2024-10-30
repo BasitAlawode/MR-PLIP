@@ -1,6 +1,6 @@
 # MR-PLIP: Multi-Resolution Pathology-Language Model with Text-Guided Visual Representation
 
-![MR-PLIP](./images/intro.PNG)
+![MR-PLIP](./images/intro.png)
 
 
 ### Abstract
