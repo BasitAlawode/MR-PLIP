@@ -10,13 +10,9 @@ In Computational Pathology (CPath), the introduction of Vision-Language Models (
 
 This setup is tested only on Linux.
 
-1. Clone this repository (Alternatively: download this repository as a zip file and extract it)
+1. Clone this repository and navigate to MR-PLIP
 ```
-git clone https://github.com/BasitAlawode/MR-PLIP.git
-```
-
-2. Navigate to MR-PLIP folder
-```
+git clone https://github.com/BasitAlawode/MR-PLIP.git MR-PLIP
 cd MR-PLIP
 ```
 
