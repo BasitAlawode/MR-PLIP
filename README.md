@@ -13,18 +13,18 @@ In Computational Pathology (CPath), the introduction of Vision-Language Models (
 This setup is tested only on Linux.
 
 1. Clone this repository and navigate to MR-PLIP
-```
-git clone https://github.com/BasitAlawode/MR-PLIP.git MR-PLIP
-cd MR-PLIP
-```
+    ```
+    git clone https://github.com/BasitAlawode/MR-PLIP.git MR-PLIP
+    cd MR-PLIP
+    ```
 
 2. Install Packages
-```
-conda create -n mrplip python=3.10 -y
-conda activate mrplip
-pip install --upgrade pip  # enable PEP 660 support
-pip install -e .
-```
+    ```
+    conda create -n mrplip python=3.10 -y
+    conda activate mrplip
+    pip install --upgrade pip  # enable PEP 660 support
+    pip install -e .
+    ```
 
 ## Data Source
 
