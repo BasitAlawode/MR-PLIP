@@ -1,5 +1,8 @@
 # MR-PLIP: Multi-Resolution Pathology-Language Model with Text-Guided Visual Representation
 
+### :fire: Accepted at CVPR 2025!
+ - Access the paper ArXiv version [here](https://arxiv.org/abs/2504.18856).
+
 ![Compare MR-PLIP](./images/compare_models.png "Comparison of the Proposed MR-PLIP with existing CPath VLMs.")
 
 
@@ -84,3 +87,18 @@ fication accuracy of MI-Zero (left) and QuiltNet (right) against our proposed MR
  - [Quilt-LLaVA](https://github.com/aldraus/quilt-llava)
  - [UNI model](https://github.com/mahmoodlab/UNI)
 
+## Citation
+
+If you find our work useful for your research, please consider citing:
+
+```bibtex
+@misc{albastaki2025,
+      title={Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation}, 
+      author={Shahad Albastaki and Anabia Sohail and Iyyakutti Iyappan Ganapathi and Basit Alawode and Asim Khan and Sajid Javed and Naoufel Werghi and Mohammed Bennamoun and Arif Mahmood},
+      year={2025},
+      eprint={2504.18856},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.18856}, 
+}
+```
