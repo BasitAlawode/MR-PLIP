@@ -1,7 +1,9 @@
 # MR-PLIP: Multi-Resolution Pathology-Language Model with Text-Guided Visual Representation
 
 ### :fire: Accepted at CVPR 2025!
- - Access the paper ArXiv version [here](https://arxiv.org/abs/2504.18856).
+ - Access the paper [here](https://openaccess.thecvf.com/content/CVPR2025/html/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.html). 
+ - ArXiv version [here](https://arxiv.org/abs/2504.18856).
+
 
 ![Compare MR-PLIP](./images/compare_models.png "Comparison of the Proposed MR-PLIP with existing CPath VLMs.")
 
@@ -92,13 +94,12 @@ fication accuracy of MI-Zero (left) and QuiltNet (right) against our proposed MR
 If you find our work useful for your research, please consider citing:
 
 ```bibtex
-@misc{albastaki2025,
-      title={Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation}, 
-      author={Shahad Albastaki and Anabia Sohail and Iyyakutti Iyappan Ganapathi and Basit Alawode and Asim Khan and Sajid Javed and Naoufel Werghi and Mohammed Bennamoun and Arif Mahmood},
-      year={2025},
-      eprint={2504.18856},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.18856}, 
+@InProceedings{Albastaki_2025_CVPR,
+    author    = {Albastaki, Shahad and Sohail, Anabia and Ganapathi, Iyyakutti Iyappan and Alawode, Basit and Khan, Asim and Javed, Sajid and Werghi, Naoufel and Bennamoun, Mohammed and Mahmood, Arif},
+    title     = {Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {25907-25919}
 }
 ```
